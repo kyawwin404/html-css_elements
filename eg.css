@@ -1,0 +1,111 @@
+body,hr{
+
+    color:green;
+}
+
+.header{
+    
+    text-align: center;
+    color: greenyellow;
+}
+
+p{
+    font-size: 15px;
+    color: blue;
+    letter-spacing: 0.01em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: grey;
+    text-decoration:none;
+    font-size: 12px;
+}
+
+a:hover{
+
+    color: greenyellow;
+}
+
+body{
+
+    background-image: url("thumb-1920-10908.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+ul{
+
+    color: whitesmoke;
+    font-size: small;
+}
+
+ol{
+    color:purple;
+    font-size: 14px;
+}
+
+.re{
+
+    font-style: italic;
+}
+
+table{
+
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid yellowgreen;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    
+    
+}
+
+td,th{
+    color:white;
+    
+}
+
+.format_elements>a,i,em,pre,del,b,strong,s{
+
+    color:red;
+}
+
+.btn{
+
+    
+    font-size:14px;
+    color:white;
+    display: block;
+    width:100px;
+    height: 30px;
+    background-color:gray;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 20px;
+}
+
+.btn:hover{
+
+    
+    color:black;
+    font-size:18px;
+
+
+}
+
+.sub{
+
+    border-radius: 10px;
+    background-color: indigo;
+    color: lawngreen;
+}
+
+.sub:hover{
+
+    height:30px;
+    width:70px;
+    background-color: crimson;
+    color: cyan;
+}
+
